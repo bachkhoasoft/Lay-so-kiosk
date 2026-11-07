@@ -1,0 +1,6 @@
+{
+  "name": "Hệ Thống Cấp Số Thứ Tự Hành Chính Công",
+  "description": "Hệ thống cấp số thứ tự, gọi số tự động, màn hình TV sảnh chờ và điều phối phục vụ công dân tại Trung tâm Phục vụ Hành chính công.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
